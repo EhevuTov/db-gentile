@@ -78,27 +78,30 @@
 				</glossdef>
 			</glossentry>
 			<glossentry>
-				<glossterm>written Torah</glossterm>
+				<glossterm>Torah shebikhtav</glossterm>
 				<glossdef>
-					<para>the first five books of the Chumash(Genesis, Exodus, etc.)</para>
+					<para>Torah that is in writing; the written Torah; the first five books of the
+						Chumash(Genesis, Exodus, etc.)</para>
 				</glossdef>
 			</glossentry>
 			<glossentry>
-				<glossterm>oral Torah</glossterm>
+				<glossterm>Torah shebe'alpeh</glossterm>
 				<glossdef>
-					<para>the Torah verbally given by Moses on how to do Torah</para>
+					<para>Torah that is from the mouth; oral Torah; the Torah verbally given by
+						Moses on how to do Torah</para>
 				</glossdef>
 			</glossentry>
 			<glossentry>
 				<glossterm>Mishnah</glossterm>
 				<glossdef>
-					<para>the oral Torah that was committed to writing for fear of losing it</para>
+					<para>the <emphasis>Torah shebe'alpeh</emphasis> that was committed to writing for fear of
+						losing it</para>
 				</glossdef>
 			</glossentry>
 			<glossentry>
 				<glossterm>Gemara</glossterm>
 				<glossdef>
-					<para>commentary and exposition to Mishnah</para>
+					<para>commentary and exposition to <emphasis>Mishnah</emphasis></para>
 				</glossdef>
 			</glossentry>
 		</glossdiv>
