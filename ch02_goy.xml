@@ -1,5 +1,4 @@
-<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
-"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <chapter id="goy">
 	<title>Goy</title>
 	<para>You've probably heard the term <emphasis>goy</emphasis> used in reference to
@@ -40,13 +39,24 @@
 			logically implied that this not a respected or honored status for non-Jews and something
 			you would want to not be of.</para>
 		<para>Rambam says that whenever he mentions the goy without any other qualifiers, he's referring
-			to the idolater(Hilchot Maachalot Assurot 11:8). Other peoples are definitely goyim as
-			well, but have qualifiers. Bnei Yisrael is a good example; they are referred to as goy
-			kadosh. Kadosh is the qualifer and thus this is not referring to the idolworshipper.
-			This is a common confusion point where many people will say that "goy" is just a general
-			term. Rambam is explicitly taking the generality out of the equation to let the reader
-			know he is explicitly refering to an idolater. Talmud Bavli, Gittin 45b, Rabbi Eliezer
-			says an unspecified <emphasis>goy</emphasis> is treated like an idol-worshipper.</para>
+			to the idolater(Hilchot Maachalot Assurot 11:8). Whenever the term
+				<emphasis>goy</emphasis> is mentioned in <emphasis>halachah</emphasis> without any
+			other qualifiers, it's referring to the idol worshipper. Other peoples are definitely
+			goyim as well, but have qualifiers. <footnote id="Gittin_45b">
+				<para>"The unspecified intentions of a goy is for idol-worship"</para>
+				<para>סתם מחשבת גוי לעבודה זרה</para>
+				<para> Rabbi Eliezer, Talmud Bavli, Gittin 45b</para>
+			</footnote>
+			<footnote id="Maachalot_assurot_11_8">
+				<para>"Wherever we write 'goy' without any further qualifiers, we are referring to
+					the worshipper of idols" - Rambam, Mishneh Torah, Ma'achalot Assurot 11:8</para>
+			</footnote> Bnei Yisrael is a good example; they are referred to as <emphasis>goy
+				kadosh</emphasis>. Kadosh is the qualifer and thus this is not referring to the
+			idol-worshipper. This is a common confusion point where many people will say that "goy"
+			is just a general term. Rambam is explicitly taking the generality out of the equation
+			to let the reader know he is explicitly refering to an idolater. Talmud Bavli, Gittin
+			45b, Rabbi Eliezer says an unspecified <emphasis>goy</emphasis> is treated like an
+			idol-worshipper.</para>
 		<para>The acceptance of a <emphasis>goy</emphasis> by the CHIDA's(Azulai) grandson is noted
 			in his journal, where he interrogates a <emphasis>goy</emphasis> and tell him to recite
 			Shema every morning.</para>
