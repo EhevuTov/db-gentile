@@ -56,8 +56,18 @@
 			formats.</para>
 	</preface>
 	<xi:include href="ch01_gentile.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-	<xi:include href="ch02_goy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-	<xi:include href="ch03_bnei_noach.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	<part>
+		<title>Umot haOlam - עמות העלם - People of the World</title>
+		<partintro>
+			<para><emphasis>Umot haOlam</emphasis> is translated as "people of the World" and it has
+				a specific definition in <emphasis>CHABAD Chassidut</emphasis>. Within the set of
+					<emphasis>Umot haOlam</emphasis> are specific subsets. Depending on what the set
+				is referring to, these subsets are either subsets entirely, or have some mutual
+				exclusivity.</para>
+		</partintro>
+		<xi:include href="ch02_goy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+		<xi:include href="ch03_bnei_noach.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	</part>
 	<xi:include href="ch04_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="ch05_ger.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="ch06_ger_toshav.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
