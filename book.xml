@@ -59,11 +59,28 @@
 		<title>People of the World</title>
 		<subtitle>אומות העולם - Umot haOlam</subtitle>
 		<partintro>
-			<para><emphasis>Umot haOlam<indexterm/></emphasis> is translated as "people of the World" and it has a
-				specific definition in <emphasis>CHABAD Chassidut</emphasis>. Within the set of
-					<emphasis>Umot haOlam</emphasis> are specific subsets. Depending on what the set
-				is referring to, these subsets are either subsets entirely, or have some mutual
-				exclusivity.</para>
+			<para><emphasis>
+				Umot haOlam</emphasis> is translated as "People of the World" and it has a specific definition
+				in <emphasis>CHABAD Chassidut</emphasis>. Within the set of <emphasis>Umot
+					haOlam</emphasis> are specific subsets. Depending on what the set is referring
+				to, these subsets are either subsets entirely, or have some mutual exclusivity, in
+				respect to properties. For instance, all humans have chromosomes, but not all humans
+				keep kosher; it's in respect to the properties talk about.</para>
+			<para>Every human being takes an oath in utero to be righteous(Niddah 30b, Iyov).</para>
+			<para>Every human being has 613 bones that desire to do mitzvot.</para>
+			<para>Every human being who's spirit moves them, can obtain understanding and with his
+				knowledge set himself different and stand before <emphasis>haShem</emphasis>, to
+				serve and minister to Him and to know <emphasis>haShem</emphasis>, walking straight
+				as <emphasis>Elokim</emphasis> made him, and and can remove the yoke of the thoughts
+				of <emphasis>bnei Adam</emphasis>. This human being is sanctified like the
+					<emphasis>Kadosh Kadoshim</emphasis>. <emphasis>haShem</emphasis> is his portion
+				and heritage forever and will provide what is sufficient for him in this world like
+				He provides for priests and Levites. Thus David, peace be upon him, said<footnote>
+					<para>Tehillim 16:5</para>
+				</footnote> "<emphasis>haShem</emphasis> is my lot and my portion; You are my cup;
+				you support my lot."<footnote>
+					<para>Rambam, Mishneh Torah, Hilchot Shemita v'Yovel 13:13</para>
+				</footnote></para>
 		</partintro>
 		<xi:include href="ch01_gentile.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 		<xi:include href="ch02_goy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
@@ -71,11 +88,6 @@
 	</part>
 	<part>
 		<title>Pious People of the World</title>
-		<subtitle>חסידי אומות העולם - Chasidei Umot haOlam</subtitle>
-		<partintro>
-			<para><emphasis>Chasidei Umot haOlam</emphasis> is translated as "pious people of the
-				world".</para>
-		</partintro>
 		<xi:include href="ch04_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
 
@@ -84,9 +96,9 @@
 		<title>From the Pious People of the World</title>
 		<subtitle>מ'חסידי אומות העולם - M'Chasidei Umot haOlam</subtitle>
 		<partintro>
-			<para><emphasis>M'Chasidei Umot haOlam</emphasis> is translated as "from thr pious people of the
-				world". These are people that have left their former home country and have attached
-				to <emphasis>Israel</emphasis>.</para>
+			<para><emphasis>M'Chasidei Umot haOlam</emphasis> is translated as "from the pious people of the
+				world". These are people that have left their former people and have attached to
+					<emphasis>Israel</emphasis>.</para>
 		</partintro>
 		<xi:include href="ch05_ger.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 		<xi:include href="ch06_ger_toshav.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
@@ -141,4 +153,9 @@
 			</glossentry>
 		</glossdiv>
 	</glossary>
+	<index>
+		<indexentry>
+			<primaryie>Umot haOlam</primaryie>
+		</indexentry>
+	</index>
 </book>
