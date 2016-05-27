@@ -1,0 +1,16 @@
+<!DOCTYPE part PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<part>
+    <title>From the Pious People of the World</title>
+    <subtitle>מ'חסידי אומות העולם - M'Chasidei Umot haOlam</subtitle>
+    <partintro>
+        <para><emphasis>M'Chasidei Umot haOlam</emphasis> is translated as "from the pious
+            people of the world". These are people that have left their former people and have
+            attached to <emphasis>Israel</emphasis>.</para>
+    </partintro>
+    
+    <xi:include href="m_chasidei_umot/ger.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+    <xi:include href="m_chasidei_umot/ger_toshav.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+    <xi:include href="m_chasidei_umot/ger_tzedek.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+    <xi:include href="m_chasidei_umot/ger_ariot.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+    <xi:include href="m_chasidei_umot/gerim_gerurim.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+</part>

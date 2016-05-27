@@ -1,0 +1,6 @@
+<!DOCTYPE part PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<part>
+    <title>Pious People of the World</title>
+    <subtitle>חסידי אומות העולם - Chassidei Umot haOlam</subtitle>
+    <xi:include href="chasidei_umot/chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</part>

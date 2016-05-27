@@ -57,25 +57,8 @@
 			media formats.</para>
 	</preface>
 	<xi:include href="umot.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-	<part>
-		<title>Pious People of the World</title>
-		<xi:include href="ch04_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-		/>
-	</part>
-	<part>
-		<title>From the Pious People of the World</title>
-		<subtitle>מ'חסידי אומות העולם - M'Chasidei Umot haOlam</subtitle>
-		<partintro>
-			<para><emphasis>M'Chasidei Umot haOlam</emphasis> is translated as "from the pious
-				people of the world". These are people that have left their former people and have
-				attached to <emphasis>Israel</emphasis>.</para>
-		</partintro>
-		<xi:include href="ch05_ger.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-		<xi:include href="ch06_ger_toshav.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-		<xi:include href="ch07_ger_tzedek.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-	</part>
-	<xi:include href="ch08_gerim_ariot.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-	<xi:include href="ch09_gerim_gerurim.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	<xi:include href="chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	<xi:include href="m_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<glossary>
 		<title>Glossary</title>
 		<para>A Glossary to help encourage you to know original Hebrew terms for better
