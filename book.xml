@@ -20,8 +20,8 @@
 	</bookinfo>
 	<preface>
 		<title>Preface</title>
-		<para>This is much of my life's work regarding the non-Jew in <emphasis>Torah</emphasis> from my
-			own personal study. I'm not a Rabbi. I'm a non-Jew who studies
+		<para>This is much of my life's work regarding the non-Jew in <emphasis>Torah</emphasis>
+			from my own personal study. I'm not a Rabbi. I'm a non-Jew who studies
 				<emphasis>Torah</emphasis> and learns from Rabbis. I would like to share with
 			everyone what I've found. These answers were received from my sojourn in
 				<emphasis>Torah</emphasis>. I think many of us ask questions yet many of us get
@@ -42,74 +42,38 @@
 			rather than a translation that usually bastardizes the original meaning and wisdom of
 			the word and any other side-effects a non-Hebrew language would do to describe Hebraic
 			ideas and concepts.</para>
-		<para>For most of the book, I'll be using the term <emphasis>bnei Yisrael</emphasis> which is the
-			Hebrew translation for <emphasis>children of Israel</emphasis>. It's common today to
-			refer to <emphasis>bnei Yisrael</emphasis> as "Jews" or the Jewish People, but for the
-			sake of clarity, I'll be using <emphasis>bnei Yisrael</emphasis> instead, which is
+		<para>For most of the book, I'll be using the term <emphasis>bnei Yisrael</emphasis> which
+			is the Hebrew translation for <emphasis>children of Israel</emphasis>. It's common today
+			to refer to <emphasis>bnei Yisrael</emphasis> as "Jews" or the Jewish People, but for
+			the sake of clarity, I'll be using <emphasis>bnei Yisrael</emphasis> instead, which is
 			usually the phrase used in <emphasis>Torah</emphasis>.</para>
-		<para>If I give my opinion about a matter, I usually preface the statement with "It appears to me"
-			or "In my opinion". I also ask questions that I would like to know answers to. Please
-			contact me through email.</para>
-		<para>This book is organic and living. Instead of having a number of editions, I will be using a
-			version number, similar to that of computer software and only use numbered editions when
-			printing. The source files for the book are housed in a version controlled repository
-			that is constantly being added to, updated, fixed and processed into multiple media
-			formats.</para>
+		<para>If I give my opinion about a matter, I usually preface the statement with "It appears
+			to me" or "In my opinion". I also ask questions that I would like to know answers to.
+			Please contact me through email.</para>
+		<para>This book is organic and living. Instead of having a number of editions, I will be
+			using a version number, similar to that of computer software and only use numbered
+			editions when printing. The source files for the book are housed in a version controlled
+			repository that is constantly being added to, updated, fixed and processed into multiple
+			media formats.</para>
 	</preface>
-	<part>
-		<title>People of the World</title>
-		<subtitle>אומות העולם - Umot haOlam</subtitle>
-		<partintro>
-			<para><emphasis> Umot haOlam</emphasis> is translated as "People of the World". Within the set of
-					<emphasis>Umot haOlam</emphasis> are specific subsets. Depending on what the set
-				is referring to, these subsets are either subsets entirely, or have some mutual
-				exclusivity, in respect to properties. For instance, all humans have chromosomes,
-				but not all humans keep kosher; it's in respect to the properties talk about.</para>
-			<para>Every human being takes an oath in utero to be righteous(Niddah 30b, Iyov). The
-					<emphasis>Umot haOlam</emphasis> have forsaken this oath.</para>
-			<para>Every human being has 248 bones that desire to do <emphasis>mitzvot</emphasis>(Rambam from
-				Sefer Mitzvot). The <emphasis>Umot haOlam</emphasis> forsake this desire.</para>
-			<para>Every human being who's spirit moves them, can obtain understanding and with his knowledge
-				set himself different and stand before <emphasis>haShem</emphasis>, to serve and
-				minister to Him and to know <emphasis>haShem</emphasis>, walking straight as
-					<emphasis>Elokim</emphasis> made him, and and can remove the yoke of the
-				thoughts of <emphasis>bnei Adam</emphasis>. This human being is sanctified like the
-					<emphasis>Kadosh Kadoshim</emphasis>. <emphasis>haShem</emphasis> is his portion
-				and heritage forever and will provide what is sufficient for him in this world like
-				He provides for priests and Levites. Thus David, peace be upon him, said<footnote>
-					<para>Tehillim 16:5</para>
-				</footnote> "haShem is my lot and my portion; You are my cup; you support my lot." <footnote>
-					<para>Rambam, Mishneh Torah, Hilchot Shemita v'Yovel 13:13</para>
-				</footnote></para>
-			<para>Every living thing with blood in its body has an animal soul called a
-					<emphasis>nefesh behemut</emphasis>. All <emphasis>nefeshot behemut</emphasis>
-				emanate from some type of <emphasis>klipah</emphasis> depending on what type of
-					<emphasis>nefesh behemut</emphasis> it has. <emphasis>Umot haOlam</emphasis>
-				have animal souls that emanate from three <emphasis>klipot</emphasis> that are
-				impure called <emphasis>klipat tameyut</emphasis>.</para>
-		</partintro>
-		<xi:include href="ch01_gentile.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-		<xi:include href="ch02_goy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-		<xi:include href="ch03_bnei_noach.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-	</part>
+	<xi:include href="umot.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<part>
 		<title>Pious People of the World</title>
-		<xi:include href="ch04_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-
-
+		<xi:include href="ch04_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+		/>
 	</part>
 	<part>
 		<title>From the Pious People of the World</title>
 		<subtitle>מ'חסידי אומות העולם - M'Chasidei Umot haOlam</subtitle>
 		<partintro>
-			<para><emphasis>M'Chasidei Umot haOlam</emphasis> is translated as "from the pious people of the
-				world". These are people that have left their former people and have attached to
-					<emphasis>Israel</emphasis>.</para>
+			<para><emphasis>M'Chasidei Umot haOlam</emphasis> is translated as "from the pious
+				people of the world". These are people that have left their former people and have
+				attached to <emphasis>Israel</emphasis>.</para>
 		</partintro>
 		<xi:include href="ch05_ger.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 		<xi:include href="ch06_ger_toshav.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
-		<xi:include href="ch07_ger_tzedek.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/></part>
-
+		<xi:include href="ch07_ger_tzedek.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	</part>
 	<xi:include href="ch08_gerim_ariot.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="ch09_gerim_gerurim.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<glossary>

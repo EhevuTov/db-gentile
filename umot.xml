@@ -1,0 +1,37 @@
+<!DOCTYPE part PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<part>
+    <title>People of the World</title>
+    <subtitle>אומות העולם - Umot haOlam</subtitle>
+    <partintro>
+        <para><emphasis> Umot haOlam</emphasis> is translated as "People of the World". Within the
+            set of <emphasis>Umot haOlam</emphasis> are specific subsets. Depending on what the set
+            is referring to, these subsets are either subsets entirely, or have some mutual
+            exclusivity, in respect to properties. For instance, all humans have chromosomes, but
+            not all humans keep kosher; it's in respect to the properties talk about.</para>
+        <para>Every human being takes an oath in utero to be righteous(Niddah 30b, Iyov). The
+                <emphasis>Umot haOlam</emphasis> have forsaken this oath.</para>
+        <para>Every human being has 248 bones that desire to do <emphasis>mitzvot</emphasis>(Rambam
+            from Sefer Mitzvot). The <emphasis>Umot haOlam</emphasis> forsake this desire.</para>
+        <para>Every human being who's spirit moves them, can obtain understanding and with his
+            knowledge set himself different and stand before <emphasis>haShem</emphasis>, to serve
+            and minister to Him and to know <emphasis>haShem</emphasis>, walking straight as
+                <emphasis>Elokim</emphasis> made him, and and can remove the yoke of the thoughts of
+                <emphasis>bnei Adam</emphasis>. This human being is sanctified like the
+                <emphasis>Kadosh Kadoshim</emphasis>. <emphasis>haShem</emphasis> is his portion and
+            heritage forever and will provide what is sufficient for him in this world like He
+            provides for priests and Levites. Thus David, peace be upon him, said<footnote>
+                <para>Tehillim 16:5</para>
+            </footnote> "haShem is my lot and my portion; You are my cup; you support my lot." <footnote>
+                <para>Rambam, Mishneh Torah, Hilchot Shemita v'Yovel 13:13</para>
+            </footnote></para>
+        <para>Every living thing with blood in its body has an animal soul called a <emphasis>nefesh
+                behemut</emphasis>. All <emphasis>nefeshot behemut</emphasis> emanate from some type
+            of <emphasis>klipah</emphasis> depending on what type of <emphasis>nefesh
+                behemut</emphasis> it has. <emphasis>Umot haOlam</emphasis> have animal souls that
+            emanate from three <emphasis>klipot</emphasis> that are impure called <emphasis>klipat
+                tameyut</emphasis>.</para>
+    </partintro>
+		<xi:include href="umot/gentile.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+		<xi:include href="umot/goy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+		<xi:include href="umot/bnei_noach.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</part>
