@@ -56,6 +56,7 @@
 			repository that is constantly being added to, updated, fixed and processed into multiple
 			media formats.</para>
 	</preface>
+	<xi:include href="intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="m_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
