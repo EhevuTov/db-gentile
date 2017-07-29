@@ -1,0 +1,37 @@
+<!DOCTYPE part PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<part>
+    <title>The People of the World</title>
+    <subtitle>אומות העולם - Umot haOlam</subtitle>
+    <partintro>
+        <para><emphasis> Umot haOlam</emphasis> is translated as "The People of the World".</para>
+        <para>Every human being takes an oath in utero to be righteous(Niddah 30b, Iyov). The
+                <emphasis>Umot haOlam</emphasis> have forsaken this oath.</para>
+        <para>Every human being has 248 bones that desire to do <emphasis>mitzvot</emphasis>(Rambam
+            from Sefer Mitzvot). The <emphasis>Umot haOlam</emphasis> forsake this desire.</para>
+        <para>Every human being who's spirit moves them, can obtain understanding and with his
+            knowledge set himself different and stand before <emphasis>haShem</emphasis>, to serve
+            and minister to Him and to know <emphasis>haShem</emphasis>, walking straight as
+                <emphasis>Elokim</emphasis> made him, and and can remove the yoke of the thoughts of
+                <emphasis>bnei Adam</emphasis>. This human being is sanctified like the
+                <emphasis>Kadosh Kadoshim</emphasis>. <emphasis>haShem</emphasis> is his portion and
+            heritage forever and will provide what is sufficient for him in this world like He
+            provides for priests and Levites. Thus David, peace be upon him, said<footnote>
+                <para>Tehillim 16:5</para>
+            </footnote> "haShem is my lot and my portion; You are my cup; you support my lot." <footnote>
+                <para>Rambam, Mishneh Torah, Hilchot Shemita v'Yovel 13:13</para>
+            </footnote></para>
+        <para>Every living thing with blood in its body has an animal soul called a <emphasis>nefesh
+                behemut</emphasis>. All <emphasis>nefeshot behemut</emphasis> emanate from some type
+            of <emphasis>klipah</emphasis> depending on what type of <emphasis>nefesh
+                behemut</emphasis> it has. <emphasis>Umot haOlam</emphasis> have animal souls that
+            emanate from three <emphasis>klipot</emphasis> that are impure called <emphasis>klipat
+                tameyut</emphasis>.</para>
+        <para>Also, all human beings have a Godly soul called a <emphasis>nefesh Elokit</emphasis>.
+            The <emphasis>nefesh Elokit</emphasis> is revealed in the <emphasis role="underline"
+                >Umot haOlam</emphasis>. It hovers over them and is distant from them as what is
+            called <emphasis>makif rachok</emphasis>.<footnote><para>Ginsburgh, Kabbalah and Meditation for the Nations, page 55-56</para></footnote></para>
+    </partintro>
+		<xi:include href="umot_haolam/gentile.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+		<xi:include href="umot_haolam/goy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+		<xi:include href="umot_haolam/bnei_noach.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</part>
