@@ -71,6 +71,7 @@
 	<xi:include href="umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<xi:include href="m_chasidei_umot_haolam.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	<xi:include href="reference.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 	<glossary>
 		<title>Glossary</title>
 		<para>A Glossary to help encourage you to know original Hebrew terms for better
