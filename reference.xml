@@ -1,0 +1,66 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+    <reference>
+    <title>References</title>
+        <refentry id="Rambam001">
+            
+            <refmeta>
+                <refentrytitle>Rambam, Hilchot Melachim 10:9</refentrytitle>
+            </refmeta>
+            <refnamediv>
+                <refname>Rambam, Hilchot Melachim 10:9</refname>
+                <refpurpose></refpurpose>
+            </refnamediv>
+            <refsynopsisdiv>
+                <title></title>
+                <synopsis></synopsis>
+            </refsynopsisdiv>
+            
+            <refsect1>
+                <title>Hebrew</title>
+                <para dir="rtl">
+                    גוי שעסק בתורה, חייב מיתה; לא יעסוק אלא בשבע מצוות שלהן בלבד.  וכן גוי ששבת--אפילו ביום מימות החול--אם עשה אותו לעצמו כמו שבת, חייב מיתה; ואין צריך לומר אם עשה מועד לעצמו
+                </para>
+            </refsect1>
+            <refsect1>
+                <title>English</title>
+                <para dir="ltr">A <emphasis>goy</emphasis> that deeply involves in Torah – obligated
+                to die. He doesn't involve except in seven commandments given to him.  And a
+                    <emphasis>goy</emphasis> on a <emphasis>Shabbat</emphasis>, even if on any day
+                of the week, if he does a <emphasis>Shabbat</emphasis> for himself – obligated to
+                die.</para>
+            </refsect1>
+        </refentry>
+        <refentry id="printf">
+            
+            <refmeta>
+            <refentrytitle>Rambam, Hilchot Melachim 10:10</refentrytitle>
+        </refmeta>
+            
+            <refnamediv>
+                <refname>Rambam, Hilchot Melachim 10:10</refname>
+                <refpurpose></refpurpose>
+            </refnamediv>
+            
+            <refsynopsisdiv>
+                
+                <funcsynopsis>
+                    <funcsynopsisinfo>
+              </funcsynopsisinfo>
+                </funcsynopsis>
+                
+            </refsynopsisdiv>
+            
+            <refsect1><title>Description</title>
+                <para>
+                    <indexterm><primary>functions</primary>
+                        <secondary>printf</secondary></indexterm>
+                    <indexterm><primary>printing function</primary></indexterm>
+                    
+                    <function>printf</function> places output on the standard
+                    output stream stdout.
+                    &hellip;
+                </para>
+            </refsect1>
+        </refentry>
+    </reference>
